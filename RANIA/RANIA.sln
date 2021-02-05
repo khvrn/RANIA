@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29509.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RANIA", "RANIA\RANIA.csproj", "{16B5C7D1-4D84-4BA1-AA80-3DB834B8467D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{16B5C7D1-4D84-4BA1-AA80-3DB834B8467D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16B5C7D1-4D84-4BA1-AA80-3DB834B8467D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16B5C7D1-4D84-4BA1-AA80-3DB834B8467D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16B5C7D1-4D84-4BA1-AA80-3DB834B8467D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EEAC9F94-2117-419C-A0E5-8A57EC807272}
+	EndGlobalSection
+EndGlobal
